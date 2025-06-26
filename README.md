@@ -1,31 +1,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Pawan Puri</title>
-  <style>
-    body {
-      background-color: #f0f8ff;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 50px;
-    }
-    h1 {
-      color: #333;
-      font-size: 3rem;
-    }
-    p {
-      font-size: 1.2rem;
-      color: #555;
-    }
-    footer {
-      margin-top: 50px;
-      font-size: 0.9rem;
-      color: #888;
-    }
-  </style>
 </head>
 <body>
   <h1>Welcome to Pawan's Website!</h1>
+  <h2>💀hellow world!💀</h2>
   <p>This is my first webpage hosted on GitHub Pages. 😄</p>
   <p>I am learning HTML, Tally, and Spoken English!</p>
 
