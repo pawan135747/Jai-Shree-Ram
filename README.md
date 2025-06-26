@@ -2,12 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <style>
-    body{
-      background-color:yellow;
-      text-align:center;
-    }
-  </style>
 </head>
 <body bgcolor="yellow" text="red">
   <h1>Welcome to Pawan's Website!</h1>
