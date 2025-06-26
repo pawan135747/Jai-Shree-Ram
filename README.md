@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
 </head>
-<body>
+<body bgcolor="yellow" text="red">
   <h1>Welcome to Pawan's Website!</h1>
   <h2>💀hellow world!💀</h2>
   <p>This is my first webpage hosted on GitHub Pages. 😄</p>
