@@ -53,7 +53,8 @@ footer {
 
   <main>
     <h2>Welcome to Lord Ram’s Page</h2>
-    <img src="LION (2).jpg" alt="Lord Ram" width="300">
+    <img src="![Uploading कृष्ण कृष्ण.jpeg…]()
+" width="300">
     <p>🙏 Ram is the soul of India. Jai Shree Ram! 🙏</p>
   </main>
 
